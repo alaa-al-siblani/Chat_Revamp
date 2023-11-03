@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933572055793",
+    "project_id": "chat-revamp-2bfbb",
+    "storage_bucket": "chat-revamp-2bfbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933572055793:android:edee5cb3d564b39bd58f50",
+        "android_client_info": {
+          "package_name": "com.example.chat_revamp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDiuYFrCnhuQrlOs32qoTYvfHkkuX-k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
